@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1381242867 source:/Users/Goncalo/Documents/IPS/Algoritmos/masterMind/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1382790636 source:h:\cet\algoritmos\mastermind\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
